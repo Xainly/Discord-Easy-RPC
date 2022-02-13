@@ -16,9 +16,9 @@ client.on('ready', () => {
     state: "State goes here!",
 
     //Images
-    largeImageKey: "largeImageKey",
+    largeImageKey: "largeKey",
     largeImageText: "Text for the large image.",
-    smallImageKey: "smallImageKey",
+    smallImageKey: "smallKey",
     smallImageText: "Text for the small image.",
 
     //Buttons
