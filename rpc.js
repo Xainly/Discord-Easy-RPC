@@ -6,7 +6,7 @@ rpc.register(ApplicationID);
 const client = new rpc.Client({ transport: 'ipc' });
 
 client.on('ready', () => {
-  console.log('The RPC is working like a charm!');
+  console.log(`Successfully started the presence as ${client.user.username}!`);
   console.log('Thanks for using QuickRPC!');           //     :> Thanks!
   
   client.setActivity({
