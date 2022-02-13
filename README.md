@@ -58,8 +58,9 @@ A quick, easy discord rpc to-go.
 ![image](https://user-images.githubusercontent.com/62221159/153738619-bba3b0cd-e390-45a8-9bb9-8265cb6a42cd.png)     
 ![image](https://user-images.githubusercontent.com/62221159/153738611-f3cc110a-0b19-483c-be30-a7b47d970e4e.png)     
 
-## Showcase of what it becomes if you put some effort to it.     
-![image](https://user-images.githubusercontent.com/62221159/153738698-ce48686e-f75a-42cd-ac09-9bc280818fbe.png)
+## Showcase of what it becomes, when you put some effort to it.     
+![image](https://user-images.githubusercontent.com/62221159/153739141-6bc3a2b9-2aa5-4cb4-8a46-e7cef3b2e527.png)
+
 
 
 
@@ -74,3 +75,7 @@ A quick, easy discord rpc to-go.
 
 ![image](https://user-images.githubusercontent.com/62221159/153736180-7d03f8f6-8c4e-4f28-9429-ea8749252a73.png)     
 PreMid, a program that works pretty well as a presence thingy. If you haven't heard of anything about PreMid, go check it. It might be the program you were searching for all these times. 😶
+
+
+
+As you may understand from the first image, I'm not a native English speaker. If my English were at the degree that It was not bearable, I'm sorry.
