@@ -1,6 +1,6 @@
 const rpc = require("discord-rpc");
 
-const ApplicationID = "123456789012345678" //Your ClientID goes here.
+const ApplicationID = "123456789012345678" //Your Bot's ClientID goes here.
 rpc.register(ApplicationID);
 
 const client = new rpc.Client({ transport: 'ipc' });
