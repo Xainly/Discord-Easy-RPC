@@ -74,7 +74,7 @@ A quick, easy discord rpc to-go.
  A- I don't think so. If you got banned in the near future, It's not my fault. (I'm taking myself to the safety! 😎)
 
 ![image](https://user-images.githubusercontent.com/62221159/153736180-7d03f8f6-8c4e-4f28-9429-ea8749252a73.png)     
-PreMid, a program that works pretty well as a presence thingy. If you haven't heard of anything about PreMid, go check it. It might be the program you were searching for all these times. 😶
+PreMid, a program that works pretty well as a presence thingy. If you haven't heard of anything about PreMid, go check it out. It might be the program you were searching for all these times. 😶
 
 
 
