@@ -78,4 +78,4 @@ PreMid, a program that works pretty well as a presence thingy. If you haven't he
 
 
 
-As you may understand from the first image, I'm not a native English speaker. If my English were at the point that It was not bearable, I'm sorry.
+As you may understand from the first image, I'm not a native English speaker. If my English were at the point that It was unbearable, I'm sorry.
